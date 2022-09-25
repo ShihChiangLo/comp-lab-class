@@ -1,0 +1,2 @@
+Number of Hydrogen Bonds: 57
+Number of helical amino acids(Glu, Ala, Leu, Met) in the protein: 18

@@ -1,0 +1,2 @@
+Number of Hydrogen Bonds: 57
+Number of helical residues in the protein: 18
