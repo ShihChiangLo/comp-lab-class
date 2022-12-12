@@ -1,0 +1,1 @@
+In vmd: press "=" can center the viewpoint according to what you pick
